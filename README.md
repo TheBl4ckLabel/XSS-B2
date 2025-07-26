@@ -21,14 +21,17 @@ XSS-B2 is an enhanced XSS automation tool designed to streamline the process of 
 
 ## <font color="blue">Installation</font>
 
-1. Clone the repository: `git clone https://github.com/username/xss-b2.git`
-2. Install dependencies: `python3 xss-b2.py --install-deps`
-3. Run the tool: `python3 xss-b2.py -h`
+1. Clone the repository: `git clone https://github.com/username/XSS-B2.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the tool: `python3 XSS-B2.py -h`
+
+For Kali Linux systems, you should also install these system packages:
+`apt update && sudo apt install -y chromium chromium-driver ffmpeg`
 
 ## <font color="blue">Usage</font>
 
 ```bash
-python3 xss-b2.py -u <target_url> -o <output_dir> [-p <proxy_file>] [-m <method>] [--bypassrecaptcha]
+python3 XSS-B2.py -u <target_url> -o <output_dir> [-p <proxy_file>] [-m <method>] [--bypassrecaptcha]
 ```
 
 ## <font color="blue">Command-Line Arguments</font>

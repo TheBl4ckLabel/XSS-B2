@@ -1,6 +1,7 @@
 # XSS-B2 
 XSS-B2 Dropper Evasion Stealth Mode Tool 🚀
-![XSS-B2](https://github.com/user-attachments/assets/a3ec87ac-b43f-4fff-ba60-f1e7e22ea89a)
+
+![XSS-B2](https://github.com/user-attachments/assets/724f6625-aa84-4fed-9f73-5ccd99ccd4b0)
 
 XSS-B2 is an enhanced XSS automation tool designed to streamline the process of identifying and exploiting Cross-Site Scripting (XSS) vulnerabilities. With a focus on real JavaScript execution detection, XSS-B2 offers advanced features such as:
 

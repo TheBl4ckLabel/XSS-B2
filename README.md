@@ -1,5 +1,5 @@
 # XSS-B2 
-XSS-B2 Dropper Evasion Stealth Mode Tool 🚀
+XSS-B2 Dropper Evasion Stealth Mode Tool 
 
 ![XSS-B2](https://github.com/user-attachments/assets/724f6625-aa84-4fed-9f73-5ccd99ccd4b0)
 

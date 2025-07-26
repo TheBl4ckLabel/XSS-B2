@@ -1,0 +1,19 @@
+# Core dependencies
+selenium==4.24.0
+requests==2.32.4
+beautifulsoup4==4.13.4
+webdriver-manager==4.0.2
+
+# reCAPTCHA bypass
+pydub==0.25.1
+SpeechRecognition==3.14.3
+
+# Parameter discovery
+arjun==2.1.5
+
+# Terminal UI (optional)
+rich==14.1.0
+
+# Supporting packages
+urllib3==2.2.1
+colorama==0.4.6
